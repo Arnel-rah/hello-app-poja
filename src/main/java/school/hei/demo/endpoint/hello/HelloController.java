@@ -1,4 +1,4 @@
-package school.hei.demo.endpoint.rest.controller.hello;
+package school.hei.demo.endpoint.hello;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
